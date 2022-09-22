@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Akmal Hazriq
 
 <!--
 **PishangShedappp/PishangShedappp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
