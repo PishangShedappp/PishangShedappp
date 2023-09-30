@@ -49,12 +49,13 @@
 ###
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31i2dllktwjaieqovtljpalwzqqm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31i2dllktwjaieqovtljpalwzqqm&redirect=true" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31i2dllktwjaieqovtljpalwzqqm&width=500" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31i2dllktwjaieqovtljpalwzqqm&width=500" alt="Spotify recently played"/>
 </div>
 
 ###
