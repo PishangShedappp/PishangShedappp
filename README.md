@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Akmal Hazriq and I'm from Malaysia</h2>
 
 ###
 
@@ -57,6 +57,7 @@
 <div align="center">
   <img src="?theme=dark" alt="Widget with the current Spotify song"  />
   [![Spotify](https://novatorem-livid-ten.vercel.app/api/spotify)](https://open.spotify.com/user/31i2dllktwjaieqovtljpalwzqqm)
+  [<img src="https://novatorem-livid-ten.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/31i2dllktwjaieqovtljpalwzqqm)
 </div>
 
 ###
