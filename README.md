@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
+  <img src="https://novatorem-livid-ten.vercel.app/api/spotify?theme=dark" alt="Widget with the current Spotify song"  />
   [![Spotify](https://novatorem-livid-ten.vercel.app/api/spotify)](https://open.spotify.com/user/31i2dllktwjaieqovtljpalwzqqm)
   [<img src="https://novatorem-livid-ten.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>]
   (https://open.spotify.com/user/31i2dllktwjaieqovtljpalwzqqm)
