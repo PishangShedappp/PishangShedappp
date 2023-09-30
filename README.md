@@ -55,6 +55,13 @@
 ###
 
 <div align="center">
+  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
+  [![Spotify](https://novatorem-livid-ten.vercel.app/api/spotify)](https://open.spotify.com/user/31i2dllktwjaieqovtljpalwzqqm)
+</div>
+
+###
+
+<div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31i2dllktwjaieqovtljpalwzqqm&width=500" alt="Spotify recently played"  />
 </div>
 
