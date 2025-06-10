@@ -2,7 +2,7 @@
 
 ###
 
-<a href="akmalhazriq.vercel.app" target="_blank">
+<a href="http://akmalhazriq.vercel.app" align="center" target="_blank">
   Portfolio
 </a>
 
