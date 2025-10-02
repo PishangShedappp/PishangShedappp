@@ -52,12 +52,7 @@
   </a>
 </div>
 
-###
-<div align="center">
-  <a href='https://spotify-github-profile.vercel.app/api/view?uid=31i2dllktwjaieqovtljpalwzqqm&redirect=true'>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31i2dllktwjaieqovtljpalwzqqm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/PishangShedappp/PishangShedappp/github-user-contribution.svg" alt="Snake animation" />
 
 ###
 
