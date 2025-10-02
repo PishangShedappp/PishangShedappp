@@ -52,7 +52,11 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/PishangShedappp/PishangShedappp/github-user-contribution.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PishangShedappp/PishangShedappp/refs/heads/main/github-user-contribution.svg" alt="Snake animation" />
+</div>
 
 ###
 
