@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PishangShedappp/PishangShedappp/refs/heads/main/github-user-contribution.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/PishangShedappp/PishangShedappp/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ###
